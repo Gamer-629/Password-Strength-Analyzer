@@ -28,7 +28,7 @@ A sleek, modern React web app that checks your password strength in real-time �
 - 🎨 Tailwind CSS
 - 🔐 zxcvbn (Password Strength Estimation)
 - 🧠 Framer Motion *(optional, for animations)*
-- 🚀 Deployed with [Vercel](https://vercel.com)
+- 🚀 Deployed with [Vercel]([https://vercel.com](https://password-strength-analyzer-sand.vercel.app/))
 
 ---
 
